@@ -82,12 +82,12 @@
 
   <h1 align="center" >Obrigado pela visita, Por favor me siga e volte sempre!<h1>
   
-     <img
+    <img
    width="100%"
    border="0"
    align="center"
    src="gashapon.gif"
-   alt="Diogo Jorge"
+   alt="Arthur Dias"
 />
   
 </div> 
