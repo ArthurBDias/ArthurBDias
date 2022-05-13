@@ -52,18 +52,42 @@
     </a>
   </div>
 </div>
+    
+<div align="center"> 
+  
+  <br><br>
+  
+  <h2 align="center">O que eu venho fazendo, e mais sobre mim </h2> 
+  
+  <h3>📚Atualmente eu estou estudando📚</h3>
+  
+  <div> 
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="">
+  </div>
+  
+  <br>
+  
+  <h3>Sobre mim</h3>
+  
+  <p>Meu nome completo é Arthur Barbosa Dias, tenho 16 anos e atualmente estou cursando o 2º ano do ensino médio.
+  Pretendo trabalhar na área de desenvolvimento web como full stack assim que terminar a escola. Gosto de desenvover 
+  aplicações com um design moderno e consigo trabalhar bem em equipe.</p>
+  
+</div>
 
-<!--
-**ArthurBDias/ArthurBDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br><br><br>
+    
+<div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h1 align="center" >Obrigado pela visita, Por favor me siga e volte sempre!<h1>
+  
+     <img
+   width="100%"
+   border="0"
+   align="center"
+   src="mario_gamer.gif"
+   alt="Diogo Jorge"
+/>
+  
+</div> 
