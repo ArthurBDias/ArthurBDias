@@ -80,9 +80,8 @@
     
 <div>
 
-  <h1 align="center" >Obrigado pela visita, Por favor me siga e volte sempre!<h1>
+  <h1 align="center" >Obrigado pela visita, Por favor me siga e volte sempre!</h1>
   
-    <img
-   width="100%" align="center" src="gashapon.gif" alt="Arthur Dias">
   
 </div> 
+    <img width="100%" align="center" src="gashapon.gif" alt="Arthur Dias">
