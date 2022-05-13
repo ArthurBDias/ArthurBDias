@@ -86,7 +86,7 @@
    width="100%"
    border="0"
    align="center"
-   src="mario_gamer.gif"
+   src="gashapon.gif"
    alt="Diogo Jorge"
 />
   
