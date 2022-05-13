@@ -83,11 +83,6 @@
   <h1 align="center" >Obrigado pela visita, Por favor me siga e volte sempre!<h1>
   
     <img
-   width="100%"
-   border="0"
-   align="center"
-   src="gashapon.gif"
-   alt="Arthur Dias"
-/>
+   width="100%" align="center" src="gashapon.gif" alt="Arthur Dias">
   
 </div> 
