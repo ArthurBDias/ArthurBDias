@@ -55,7 +55,7 @@
     
 <div align="center"> 
   
-  <br><br>
+  <br><hr>
   
   <h2 align="center">O que eu venho fazendo, e mais sobre mim </h2> 
   
