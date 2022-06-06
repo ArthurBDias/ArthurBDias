@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <h3>⚡Lingugens que conheço e estudo⚡<h3> 
+  <h3>⚡Lingugens que conheço / estudo⚡<h3> 
   
   <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="">
@@ -25,7 +25,7 @@
 <br>
     
 <div align="center">
-  <h3>🌱Ferramentas que conheço e estudo🌱<h3> 
+  <h3>🌱Ferramentas que conheço / estudo🌱<h3> 
   
   <div>
     <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="">
