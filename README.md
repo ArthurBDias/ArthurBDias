@@ -5,9 +5,11 @@
 <h3>✨Estudo Desenvolvimento web, na parte de Front End, Construindo aplicações com HTML, CSS e ReactJS.✨</h3>
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurBDias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurBDias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBDias&layout=compact&langs_count=7&theme=dracula"/>
+  
 </div>
 
 <br>
@@ -19,6 +21,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="">
+    
   </div>
 </div>
     
@@ -71,8 +74,8 @@
   <h3>Sobre mim</h3>
   
   <p>Meu nome completo é Arthur Barbosa Dias, tenho 16 anos e atualmente estou cursando o 2º ano do ensino médio.
-  Pretendo trabalhar na área de desenvolvimento web como full stack assim que terminar a escola. Gosto de desenvover 
-  aplicações com um design moderno e consigo trabalhar bem em equipe.</p>
+  Pretendo trabalhar na área de desenvolvimento web como full stack, assim que terminar a escola. Gosto de desenvover 
+  aplicações com um design moderno, e me dou bem em trabalhos em equipe.</p>
   
 </div>
 
