@@ -72,11 +72,11 @@
   <br>
   
   <h3>Sobre mim</h3>
-  
-  <p>Meu nome completo é Arthur Barbosa Dias, tenho 16 anos e atualmente estou cursando o 2º ano do ensino médio.
-  Pretendo trabalhar na área de desenvolvimento web como full stack, assim que terminar a escola. Gosto de desenvover 
-  aplicações com um design moderno, e me dou bem em trabalhos em equipe.</p>
-  
+
+    <p>Meu nome completo é Arthur Barbosa Dias, Ainda não tenho alguma experiência no mercado de trabalho, mas 
+    pretendo trabalhar na área de desenvolvimento web como full stack, assim que terminar a escola. Gosto de desenvover 
+    aplicações com um design moderno, e me dou bem em trabalhos em equipe.</p>
+
 </div>
 
 <br><br><br>
